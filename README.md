@@ -3,7 +3,7 @@
 ## I am a mathematics graduate who loves to learn!
 
 - 👀 I’m interested in learning new coding languages 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working on: FreeCodeCamp's 'Data Analysis with Python' course
 - 📫 How to reach me thomaswoodland-scott@hotmail.com
 - 🥅 2022 Goals: 
 
