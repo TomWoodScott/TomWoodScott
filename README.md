@@ -1,6 +1,6 @@
 ### Hi there, I'm Tom
 
-## I am a mathematics graduate who loves to learn!
+## a mathematics graduate who loves to learn!
 
 - 👀 I’m interested in learning new coding languages 
 - 🌱 I’m currently working on: FreeCodeCamp's 'Data Analysis with Python' course
